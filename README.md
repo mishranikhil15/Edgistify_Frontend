@@ -8,7 +8,6 @@ This is the frontend of the e-commerce platform built using React and Ant Design
 - User Registration & Login
 - Add Products to Cart
 - Place Orders
-- Responsive UI using Ant Design
 - API integration using Axios
 
 ## Tech Stack
